@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=febeea&height=180&text=Welcome%20to%20Gaeun's%20GitHub&animation=fadeIn&fontColor=fe39f7&fontSize=60" />
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,FFC0CB,B4D9EF&height=180&text=Welcome%20to%20Gaeun's%20GitHub&animation=fadeIn&fontColor=ffffff&fontSize=60" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋 안녕하세요. 프론트엔드 개발자 이가은입니다! 👋  </h2>  
@@ -24,8 +24,9 @@
           </div>
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=Commeci&bg_color=60,eb52ff,fee1ef&title_color=ffffff&text_color=ffffff"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Commeci&layout=compact&bg_color=60,eb52ff,fee1ef&title_color=ffffff&text_color=ffffff"
-           /> </div> 
-    </div>
-    
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
+<div align= "center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Commeci&bg_color=60,B4D9EF,FFB6C1&title_color=ffffff&text_color=ffffff&show_icons=true&icon_color=ffffff"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Commeci&layout=compact&bg_color=60,B4D9EF,FFB6C1&title_color=ffffff&text_color=ffffff"/> 
+</div>
+
